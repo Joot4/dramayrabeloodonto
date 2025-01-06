@@ -16,3 +16,6 @@ document.addEventListener('DOMContentLoaded', () => {
     lastScrollY = currentScrollY;
   });
 });
+
+const videoElement = document.querySelector('.highlight-video');
+videoElement.muted = true;

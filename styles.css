@@ -23,7 +23,7 @@ a{
 }
 
 .clinic-intro {
-    background-image: url('assets/foto\ central.jpg'); /* Imagem impactante de fundo */
+    background-image: url('assets/foto-central.webp'); /* Imagem impactante de fundo */
     background-size: cover;
     background-position: center;
     height: 400px; /* Altura ajustável */
